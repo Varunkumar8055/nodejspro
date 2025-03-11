@@ -1,0 +1,14 @@
+{
+  "name": "nodejspro",
+  "version": "0.0.0",
+  "description": "node-js project",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/remaider.ts"
+  },
+  "author": "Varunkumar M S",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
